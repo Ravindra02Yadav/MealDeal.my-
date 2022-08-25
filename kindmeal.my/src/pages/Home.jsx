@@ -1,14 +1,21 @@
 import React from 'react'
 import { Box,Image } from '@chakra-ui/react'
-import image from '../images/bigBanner.png'
+import bigBanner from '../images/bigBanner.png'
+import LastestNews from '../components/LastestNews'
+import Moments from '../components/Moments'
+import Discover from '../components/Discover'
+
 
 const Home = () => {
   return (
     <>
     <Box ml="120px">
-    <Image src={image} />
+    <Image src={bigBanner} />
     </Box>
-
+    <LastestNews />
+    <Moments />
+    <Discover />
+   
     </>
   )
 }
