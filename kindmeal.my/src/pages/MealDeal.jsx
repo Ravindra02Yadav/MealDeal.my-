@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import { Grid } from '@chakra-ui/react'
+import { Grid,Image,Box } from '@chakra-ui/react'
 import MealDealComponent from '../components/MealDealComponent'
+import mealdealBanner from '../images/mealdealBanner.png'
 
 function getData(){
-    return fetch("http://localhost:3000/data")
+    return fetch("http://localhost:8080/data")
     .then(res=>res.json())
 }
 
@@ -21,6 +22,10 @@ const MealDeal = () => {
     },[])
   return (
     <>
+    <Box ml="11%" mr="10%" mt="20px" mb="20px" >
+    <Image src={mealdealBanner} />
+    </Box>
+   
 <Grid templateColumns='repeat(2, 1fr)' gap={4}  bg="#eeefae" ml="10%" mr="10%" boxShadow='2xl'>
     {
         info.map((item)=>(
