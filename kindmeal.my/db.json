@@ -1,0 +1,145 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "data":[
+        {
+            "id":1,
+          "image": "https://www.kindmeal.my/photos/deal/7/720-5195-l.jpg",
+          "title": "Yishensu Groceries @ Ipoh",
+          "discount": "-10%",
+          "description": "Yishensu Groceries, Ipoh offers you a wide range of healthy, nutritious and tasty vegetarian products! \n\nWe develop our own exclus..",
+          "subtitle": "Yishensu Groceries Ipoh",
+          "location": "—  Ipoh, Perak",
+          "rating": "(0)",
+          "icon1": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+          "icon2": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+          "expires": "4 Days"  
+        },
+        
+          {
+            "id":2,
+            "image": "https://www.kindmeal.my/photos/deal/5/551-2642-l.jpg",
+            "title": "Fine Coffees & Fabulous Food",
+            "discount": "-20%",
+            "description": "Serving classic dishes with a contemporary twist, using the freshest and seasonal ingredients.\n\nSelect from any of our meat-free i..",
+            "subtitle": "Jamaica Blue",
+            "location": "—  Shah Alam & 1 Branch",
+            "rating": "(16)",
+            "icon1": "https://www.kindmeal.my/images/icon_egg.png",
+            "icon2": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+            "expires": "11 Days"
+          },
+        
+        {
+            "id":3,
+          "image": "https://www.kindmeal.my/photos/deal/6/683-4718-l.jpg",
+          "title": "Creative Home-Style Dining",
+          "discount": "-15%",
+          "description": "Indulge in creative, delicious meat-free cuisine within our cozy, home-style cafe!\n\nWe only serve healthy Brown Rice Beehoon, Mixi..",
+          "subtitle": "Red House 2",
+          "location": "—  Cheras, Kuala Lumpur",
+          "rating": "(11)",
+          "icon1": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+          "icon2": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+          "expires": "12 Days"
+        },
+        {
+            "id":4,
+          "image": "https://www.kindmeal.my/photos/deal/6/698-4639-l.jpg",
+          "title": "Nutritious Meets Delicious",
+          "discount": "-10%",
+          "description": "Wise Crafters offers freshly-prepared meals, developed by a team of chefs and nutritionists.\n\nLet us invigorate your body and mind..",
+          "subtitle": "Wise Crafters",
+          "location": "—  Petaling Jaya, Selangor",
+          "rating": "(0)",
+          "icon1": "https://www.kindmeal.my/images/icon_egg.png",
+          "icon2": "",
+          "expires": "12 Days"
+        },
+        {
+            "id":5,
+          "image": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+          "title": "Dining Bowl Asian Delicacies",
+          "discount": "-20%",
+          "description": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+          "subtitle": "Dining Bowl",
+          "location": "—  Kuala Lumpur, Wilayah Persekutuan",
+          "rating": "(12)",
+          "icon1": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+          "icon2": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+          "expires": "9 Days"
+        },
+        {
+            "id":6,
+          "image": "https://www.kindmeal.my/photos/deal/7/713-5140-l.jpg",
+          "title": "Korean & Chinese Feast",
+          "discount": "-10%",
+          "description": "Feast on our signature Korean & Chinese cuisine, as well as hotpot and Western meals!\n\nOur healthy food and soups are prepared wit..",
+          "subtitle": "Vege Art",
+          "location": "—  Johor Bahru, Johor",
+          "rating": "(0)",
+          "icon1": "https://www.kindmeal.my/images/icon_egg.png",
+          "icon2": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+          "expires": "5 Days"
+        },
+        {
+            "id":7,
+          "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+          "title": "Scrumptious Croutons",
+          "discount": "-20%",
+          "description": "Croutons brings you a sumptuous variety of international cuisines.\n\nIndulge in any of the meat-free items from our menu below:\n\n• ..",
+          "subtitle": "Croutons Cafe",
+          "location": "—  Seri Kembangan, Selangor",
+          "rating": "(5)",
+          "icon1": "https://www.kindmeal.my/images/icon_egg_disabled.png",
+          "icon2": "https://www.kindmeal.my/images/icon_milk_disabled.png",
+          "expires": "12 Days"
+        },
+        {
+            "id":8,
+          "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+          "title": "Wellness Meal + 10% Off Organic Products",
+          "discount": "-20%",
+          "description": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea!\n\nFeatured food menu items include:\nJuve Four Se..",
+          "subtitle": "Juve Wellness Puchong",
+          "location": "—  Puchong, Selangor",
+          "rating": "(4)",
+          "icon1": "",
+          "icon2": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+          "expires": "4 Days"
+        },
+        {
+            "id":9,
+          "image": "https://www.kindmeal.my/photos/deal/6/679-4332-l.jpg",
+          "title": "Garden Comfort Food",
+          "discount": "-15%",
+          "description": "Relax with your favorite Asian & Western comfort food, crafted with quality ingredients and a creative touch.\n\nEnjoy discount on a..",
+          "subtitle": "Garden Vegetarian Cafe",
+          "location": "—  Shah Alam , Selangor",
+          "rating": "(1)",
+          "icon1": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+          "icon2": "https://www.kindmeal.my/images/icon_alcohol_disabled.png",
+          "expires": "5 Days"
+        },
+        {
+            "id":10,
+          "image": "https://www.kindmeal.my/photos/deal/7/709-4950-l.jpg",
+          "title": "Authentic Hainan Village Flavors",
+          "discount": "-10%",
+          "description": "Inspired by the love for animals and the planet, Hainan Village Kopitiam is an advocate of meat-free, egg & plant-based diet. And ..",
+          "subtitle": "Hainan Village",
+          "location": "—  Cheras, Selangor",
+          "rating": "(1)",
+          "icon1": "https://www.kindmeal.my/images/icon_egg.png",
+          "icon2": "",
+          "expires": "13 Days"
+        }
+       
+      ],
+    "profile": { "name": "typicode" }
+    
+  }

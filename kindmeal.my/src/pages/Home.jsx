@@ -1,6 +1,7 @@
 import React from 'react'
 import { Box,Image } from '@chakra-ui/react'
 import bigBanner from '../images/bigBanner.png'
+import bottomBanner from '../images/bottomBanner.png'
 import LastestNews from '../components/LastestNews'
 import Moments from '../components/Moments'
 import Discover from '../components/Discover'
@@ -15,7 +16,7 @@ const Home = () => {
     <LastestNews />
     <Moments />
     <Discover />
-   
+   <Image src={bottomBanner} />
     </>
   )
 }
