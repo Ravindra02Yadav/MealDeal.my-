@@ -32,13 +32,13 @@ const Navbar = () => {
 </Flex>
 <Flex bg="#2bb673" color="white" justifyContent="space-around" h="35px">
     <Box fontSize="xl" ml="80px"><Link to="/">Home</Link></Box>
-    <Box fontSize="xl"><Link to="/">Meal Deals</Link></Box>
-    <Box fontSize="xl"><Link to="/">KindMoments</Link></Box>
-    <Box fontSize="xl"><Link to="/">Hot Picks</Link></Box>
-    <Box fontSize="xl"><Link to="/">Recipes</Link></Box>
-    <Box fontSize="xl"><Link to="/">Directory</Link></Box>
-    <Box fontSize="xl"><Link to="/">Articles</Link></Box>
-    <Box fontSize="xl" mr="120px"><Link to="/">Helps</Link></Box>
+    <Box fontSize="xl"><Link to="/MealDeal">Meal Deals</Link></Box>
+    <Box fontSize="xl"><Link to="/MealDeal">KindMoments</Link></Box>
+    <Box fontSize="xl"><Link to="/MealDeal">Hot Picks</Link></Box>
+    <Box fontSize="xl"><Link to="/MealDeal">Recipes</Link></Box>
+    <Box fontSize="xl"><Link to="/MealDeal">Directory</Link></Box>
+    <Box fontSize="xl"><Link to="/MealDeal">Articles</Link></Box>
+    <Box fontSize="xl" mr="120px"><Link to="/MealDeal">Helps</Link></Box>
 </Flex>
     </>
   )
