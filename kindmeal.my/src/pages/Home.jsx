@@ -5,6 +5,7 @@ import bottomBanner from '../images/bottomBanner.png'
 import LastestNews from '../components/LastestNews'
 import Moments from '../components/Moments'
 import Discover from '../components/Discover'
+import Footer from '../components/Footer'
 
 
 const Home = () => {
@@ -17,6 +18,7 @@ const Home = () => {
     <Moments />
     <Discover />
    <Image src={bottomBanner} />
+   <Footer />
     </>
   )
 }
