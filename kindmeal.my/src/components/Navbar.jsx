@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <>
 <Flex w="90%" justifyContent="space-around" ml="50px">
-    <Box><Image src="https://www.kindmeal.my/images/logo-kindmeal.png"/></Box>
+    <Box><Link to="/"><Image src="https://www.kindmeal.my/images/logo-kindmeal.png"/></Link></Box>
     <Box>
         <Flex justifyContent="space-between" >
     <Box ml="10px" mt="20px"><Icon as={FaLink}  fontSize="40px" color="#cdcdcd" /></Box>
